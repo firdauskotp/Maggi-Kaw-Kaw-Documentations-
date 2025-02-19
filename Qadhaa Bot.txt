@@ -1,0 +1,32 @@
+PLEASE NOTE THAT IN THIS VERSION, THE BOT USES ASIA/SINGAPORE TIMEZONE 
+ 
+ Thank you for using our bot, we hope you will benefit from it! Here are the available commands         
+ 
+ THOSE THAT HAVE [EXPERIMENTING] MIGHT NOT BE 100% WORKING and [STILL IN DEVELOPMENT] IS NOT OUT YET         
+ 
+ DON'T NEED AN ACCOUNT 
+ /help = bring up this help message section 
+ /reg abc = To register your username. Please substitute abc with your desired username. NOTE THAT ONLY ONE USER CAN REGISTER ON ONE ACCOUNT AND YOU CANNOT USE A DUPLICATE USERNAME         
+ /login abc = To login with your username. Please substitute abc with your username  
+ /quote [EXPERIMENTING] = Send a random quote 
+ /dua [EXPERIMENTING] = Send a random dua 
+ /onquotes [EXPERIMENTING] = To send Dua' and Islamic quotes at 8 AM and 9 PM 
+ /offquotes [EXPERIMENTING] = To stop the sending of Dua' and Islamic quotes at 8 AM and 9 PM 
+ 
+ NEED AN ACCOUNT 
+         
+  /logout = To logout your account 
+ /total = Shows the total prayer replacements 
+ /sa = Add a replacement for Subuh 
+ /za = Add one replacement for zohor         
+ /aa = Add one replacement for Asar 
+ /ma = Add one replacement for Maghrib 
+ /ia = Add one replacement for Isyak  
+ /sr = Remove one replacement for Subuh 
+ /zr = Remove one replacement for Zohor 
+ /ar = Remove one replacement for Asar         
+ /mr = Remove one replacement for Maghrib 
+ /ir = Remove one replacement for Isyak         
+ /er [STILL IN DEVELOPMENT] = An extreme reminder of why we should replace our prayers [TO BE AUTOMATIC IN A FUTURE VERSION] 
+ 
+ Thank you for using this bot by Maggi Kaw Kaw
